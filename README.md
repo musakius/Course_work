@@ -1,1 +1,1 @@
-https://musakius.github.io/Course_work/
+https://musakius.github.io/Course_work_HTML-CSS/
