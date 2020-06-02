@@ -8,6 +8,10 @@ function openCloseMenu() {
 };
 
 
+
+
+
+
 document.getElementById("submit").onclick = function(){
     orderIsAccepted()
 };
